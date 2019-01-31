@@ -6,7 +6,3 @@
 
  * Data, *Messenger* and message.
  * test
-
- *Data, *Messenger* and message.
- *test
- 
