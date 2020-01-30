@@ -6,3 +6,5 @@
 
  * Data, *Messenger* and message.
  * test
+
+/* comment */
