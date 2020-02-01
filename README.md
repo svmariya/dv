@@ -7,4 +7,4 @@
  * Data, *Messenger* and message.
  * test
 
-/* comment */
+[//]: # comment
